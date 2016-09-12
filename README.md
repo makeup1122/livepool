@@ -1,3 +1,5 @@
+# Node.js的版本
+测试得知该软件暂只支持NodeJs v0.10.x的版本。
 # LivePool
 Fiddler Like cross platform debugging proxy for web developers base on NodeJS
 
